@@ -1,0 +1,167 @@
+.login {
+color: white;
+margin: auto;
+text-align: right;
+font-family: sans-serif;
+}
+
+img{
+  width: 17em;
+  height: 5.5em;
+  position: absolute;
+  top: 0;
+  bottom: 365px;
+  left: 15px;
+  right: 0;
+  margin: auto;
+}
+
+
+.h3{
+  color:rgb(11, 250, 150);
+  margin: auto;
+  line-height: 19;
+  text-align: center;
+  font-family: Arial, Helvetica, sans-serif;
+  }
+
+.h1{
+    
+  color: white;
+   margin: auto;
+   line-height: 1px;
+   text-align: center;
+   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif
+  
+}
+
+.money{
+  color: white;
+  margin: auto;
+  line-height: 2;
+  text-align: center;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif
+}
+
+.h2{
+ color: white;
+ margin: auto;
+ line-height: 4;
+ text-align: center;
+ font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.tiny{
+  color: white;
+  margin:auto;
+  line-height: 15;
+  text-align: center;
+  }
+
+.percent { 
+    color: rgb(11, 250, 150);
+    position:absolute;
+    margin: auto;
+    line-height: 92;
+    top: 0;
+    bottom: 0;
+    left: 377px;
+    right: 0;
+  }
+
+.get{
+  color: white;
+  position: absolute;
+  margin: auto;
+  line-height: 57;
+  top: 0;
+  bottom: 0;
+  left: 377px;
+  right: 0;
+}
+
+body{
+  background-color: black;
+  z-index: -1;
+}
+
+.plans{
+  color: rgb(11, 250, 150);
+  position: absolute;
+  margin: auto;
+  line-height: 100;
+  top: 0;
+  bottom: 0;
+  left: 600px;
+  right: 0;
+  }
+
+  .love{
+    color: white;
+    position: absolute;
+    margin: auto;
+    top: 100px;
+    bottom: 0;
+    left: 357px;
+    line-height: 21.7;
+    right:200px;
+     font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    
+  }
+
+  .stream{
+    color: white;
+    position: absolute;
+    margin: auto;
+    line-height: 71.5;
+    top: 0;
+    bottom: 0;
+    left: 240px;
+    right: 0;
+  }
+
+.or{
+  color: white;
+  position: absolute;
+  margin: auto;
+  line-height: 73.75;
+  top: 0;
+  bottom: 0;
+ left: 500px;
+ right: 0;
+}
+
+.strip{
+  position: absolute;
+  margin: auto;
+  top: 840px;
+  bottom: 0;
+  left: 0;
+  right: 1020px;
+  height: ;
+  width: ;
+}
+
+
+.row{
+  display: fl;
+  align-content: space-between;
+  padding:0 4px;
+  
+  
+.column{
+    flex: 50%;
+    padding:0 40px;
+  
+  }
+  
+  
+  
+  .column img{
+  margin-top:1100px;
+  justify-content: flex-end;
+  display: flex;
+  height:600px;
+  
+  
+}
